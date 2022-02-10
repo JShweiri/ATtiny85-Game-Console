@@ -1,21 +1,5 @@
 # ATtiny85-Game-Console
 
-<img src="resources/IMG_5978.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5979.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5980.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5981.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5982 (1).JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5983.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5984.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_5985.JPG" alt="" height="240"/>
-<br>
 <img src="resources/IMG_5986.JPG" alt="" height="240"/>
 <br>
 <img src="resources/IMG_5988.JPG" alt="" height="240"/>
@@ -27,16 +11,6 @@
 <img src="resources/IMG_6145.JPG" alt="" height="240"/>
 <br>
 <img src="resources/IMG_6146.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_6154.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_6155.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_6156.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_6157.JPG" alt="" height="240"/>
-<br>
-<img src="resources/IMG_6158.JPG" alt="" height="240"/>
 <br>
 <img src="resources/IMG_6161.JPG" alt="" height="240"/>
 <br>
